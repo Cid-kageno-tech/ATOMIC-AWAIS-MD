@@ -11,11 +11,11 @@ async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender
 try{
 let madeMenu = `❁ ════ ❃•⇆•❃ ════ ❁
 
-*👋 HELLO ${pushname}*\n\n *I AM CREW AWAIS 887*\n\n *I AM 16 YEARS OLD SWEET BOY 🔞*\n\n *I AM FROM MULTAN😁🙈*\n\n *I AM SIMPLE WHATSAPP BOT DEVELOPER👨‍💻*\n\n\n *THANK YOU.😊*
+*👋 HELLO ${pushname}*\n\n *I AM 𝙲𝙸𝙳 𝙺𝙰𝙶𝙴𝙽𝙾 887*\n\n *I AM 18 YEARS OLD SWEET BOY 🔞*\n\n *I AM FROM 𝚃𝙾𝙶𝙾😁🙈*\n\n *I AM SIMPLE WHATSAPP BOT DEVELOPER👨‍💻*\n\n\n *THANK YOU.😊*
 
 ❁ ════ ❃•⇆•❃ ════ ❁
 
-> *ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝚌𝚛𝚎𝚠 𝚊𝚠𝚊𝚒𝚜*
+> *ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝚌𝚒𝚍 𝚖𝚊𝚛𝚌*
 
 ╰━❁ ═══ ❃•⇆•❃ ═══ ❁━╯
 `
