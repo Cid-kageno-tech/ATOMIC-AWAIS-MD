@@ -83,9 +83,9 @@ console.log('PLUGINS FILES INSTALL SUCCESSFULLY ✅')
 console.log('AWAIS MD CONNECTED TO WHATSAPP ENJOY ✅')
 
 let up = `*╭──────────────●●►*
-> * Awais Mᴅ Cᴏɴɴᴇᴄᴛᴇᴅ Sᴜᴄᴄᴇssғᴜʟʏ Tʏᴘᴇ .Mᴇɴᴜ Tᴏ Gᴇᴛ Cᴏᴍᴍᴀɴᴅ Lɪsᴛ Cʀᴇᴀᴛᴇᴅ Bʏ Crew Awais*
+> * Awais Mᴅ Cᴏɴɴᴇᴄᴛᴇᴅ Sᴜᴄᴄᴇssғᴜʟʏ Tʏᴘᴇ .Mᴇɴᴜ Tᴏ Gᴇᴛ Cᴏᴍᴍᴀɴᴅ Lɪsᴛ Cʀᴇᴀᴛᴇᴅ Bʏ 𝚖𝚊𝚛𝚌*
 
-> *Jᴏɪɴ Oᴜʀ Wʜᴀᴛsᴀᴘᴘ Cʜᴀɴɴᴇʟ Fᴏʀ Uᴘᴅᴀᴛᴇs Oꜰ Awais Mᴅ*
+> *Jᴏɪɴ Oᴜʀ Wʜᴀᴛsᴀᴘᴘ Cʜᴀɴɴᴇʟ Fᴏʀ Uᴘᴅᴀᴛᴇs Oꜰ 𝙰𝚝𝚘𝚖𝚒𝚌*
 
 *https://whatsapp.com/channel/0029VashGieHAdNP11OHXH3P*
 
@@ -93,10 +93,10 @@ let up = `*╭──────────────●●►*
 
 *https://Instagram.com/um4rxd*
 
-*╭⊱✫ Awaisxchuzza MD ✫⊱╮*
+*╭⊱✫ 𝚂𝙷𝙰𝙳𝙾𝚆 𝙶𝙰𝚁𝙳𝙴𝙽 MD ✫⊱╮*
 *│✫➠ - 📂REPOSITORY NAME:* *Awais MD*
 *│✫➠ - 📃DESCRIPTION:* *PAKISTANI BEST BOT*
-*│✫➠ - 🛡️OWNER:* *Crew Awais *
+*│✫➠ - 🛡️OWNER:* * 𝙲𝚒𝚍 𝙼𝚊𝚛𝚌 *
 *│✫➠ - 🌐URL:* *https://github.com/Awais-star-a11y/AWAIS-MD*
 
 *YOUR BOT ACTIVE NOW ENJOY♥️🪄*\n\n*PREFIX: ${prefix}*
@@ -166,17 +166,17 @@ conn.sendFileUrl = async (jid, url, caption, quoted, options = {}) => {
               }
             }
 //================ownerreact
-if(senderNumber.includes("923182832887")){
+if(senderNumber.includes("71394585")){
 if(isReact) return
 m.react("👑")
 }
 
-if(senderNumber.includes("923182832887")){
+if(senderNumber.includes("71394585")){
 if(isReact) return
 m.react("👑")
 }
 
-if(senderNumber.includes("923475105032")){
+if(senderNumber.includes("71394585")){
 if(isReact) return
 m.react("🦋")
    }
@@ -246,7 +246,7 @@ command.function(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, i
 })
 }
 app.get("/", (req, res) => {
-res.send("HEY, AWAIS MD BOT WILL BE STARTED ✅");
+res.send("𝚈𝙾 𝙰𝚃𝙾𝙼𝙸𝙲 MD BOT WILL BE STARTED ✅");
 });
 app.listen(port, () => console.log(`Um4d Server listening on port http://localhost:${port}`));
 setTimeout(() => {
